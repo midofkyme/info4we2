@@ -1,0 +1,204 @@
+.btns1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding:0 120px;
+}
+.adsl{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+    width: 600px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+.adsl_name{
+    padding-right: 160px;
+    padding-left: 100px;
+    color: white;
+}
+.adsl_icon{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    padding-left: 100px;
+    background: #00866c;
+    color: white;
+}
+.mobile{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+    width: 600px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+.mobile_name{
+    padding-right: 140px;
+    padding-left: 100px;
+    color: white;
+}
+.mobile_icon{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    padding-left: 100px;
+    background: #00866c;
+    color: white;
+}
+.post{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+    width: 600px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+.post_name{
+    padding-right: 100px;
+    padding-left: 100px;
+    color: white;
+}
+.post_icon{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    padding-left: 100px;
+    background: #00866c;
+    color: white;
+}
+.services{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+    width: 600px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+.services_name{
+    padding-right: 100px;
+    padding-left: 105px;
+    color: white;
+}
+.services_icon{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    padding-left: 100px;
+    background: #00866c;
+    color: white;
+}
+.schedule{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+    width: 600px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+.schedule_name{
+    padding-right: 100px;
+    padding-left: 100px;
+    color: white;
+}
+.schedule_icon{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    padding-left: 100px;
+    background: #00866c;
+    color: white;
+}
+.update{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 140px;
+    width: 600px;
+    padding: 0;
+    background: #009578;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+}
+.update_name{
+    padding-right: 110px;
+    padding-left: 100px;
+    color: white;
+}
+.update_icon{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 60px;
+    padding-left: 100px;
+    background: #00866c;
+    color: white;
+}
